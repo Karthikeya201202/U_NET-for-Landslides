@@ -31,7 +31,7 @@ Transposed convolutions (also known as deconvolutions or upsampling) are used to
 The key innovation of U-Net is the use of skip connections, where feature maps from the contracting path are concatenated with feature maps in the expansive path.
 This helps to retain high-resolution information and aids in the precise localization of segmented objects.
 
-## Result
 
-<img width="562" alt="image" src="https://github.com/Karthikeya201202/U_NET-for-Landslides/assets/92677934/20a81ee6-86df-4ed2-9959-b26d76d52a01">
+
+
 
